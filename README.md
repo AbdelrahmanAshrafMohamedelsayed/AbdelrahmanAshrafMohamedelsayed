@@ -45,4 +45,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanashrafmohamedelsayed&" alt="abdelrahmanashrafmohamedelsayed" /></p>
 
 <br>
+
+<img src="https://raw.githubusercontent.com/AbdelrahmanAshrafMohamedelsayed/AbdelrahmanAshrafMohamedelsayed/blob/output/snake.svg" alt="Snake animation" />
+
+###
 <p align="left"><img src="https://readme-typing-svg.herokuapp.com/?lines=See+You+Later.."/></p>
