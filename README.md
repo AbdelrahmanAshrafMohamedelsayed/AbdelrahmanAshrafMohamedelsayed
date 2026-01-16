@@ -11,12 +11,12 @@
 
 
 - 🎓 Computer Engineering Student at <a href="http://eng.cu.edu.eg/ar/">Faculty of Engineering Cairo University</a>
-- 🌱 I’m currently learning **Machine learning , Artificial intelligence**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 📫 How to reach me **body1562001@gmail.com**
+- 📫 How to reach me **[body1562001@gmail.com](mailto:body1562001@gmail.com)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mEep5NVuYhrJhgM53bgcFu05BIVUIZMy/view?usp=sharing)
-- 🖐 Available to help
+- 📄 Check out my professional experience in my [Resume](https://drive.google.com/file/d/1mEep5NVuYhrJhgM53bgcFu05BIVUIZMy/view?usp=sharing)
+- 🖐 Open to collaboration and helping others
 
 <br>
 <br>
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-ashraf-801a0321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-ashraf-801a0321b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelrahman-ashraf-801a0321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdelrahman Ashraf LinkedIn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/body1562001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="body1562001" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/body1562002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="body1562002" height="30" width="40" /></a>
  <a href="mailto:body1562001@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="abdo" height="30px" width="40px" /></a> 
@@ -38,11 +38,12 @@
 <code title="VMware"><img src="images/vmware.png" height="40" /></code> -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanashrafmohamedelsayed&show_icons=true&locale=en&layout=compact" alt="abdelrahmanashrafmohamedelsayed" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanashrafmohamedelsayed&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanashrafmohamedelsayed&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanashrafmohamedelsayed&show_icons=true&locale=en" alt="abdelrahmanashrafmohamedelsayed" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanashrafmohamedelsayed&" alt="abdelrahmanashrafmohamedelsayed" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanashrafmohamedelsayed&" alt="Streak Stats" /></p>
 
 <br>
 
